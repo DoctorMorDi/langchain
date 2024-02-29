@@ -3,23 +3,23 @@
 ## Tech Stack
 DoctorMorDi/langchain is built on the following main stack:
 
-- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- [Python](https://www.python.org) – Languages
 - [Golang](http://golang.org/) – Languages
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [MongoDB](http://www.mongodb.com/) – Databases
+- [Python](https://www.python.org) – Languages
 - [Cassandra](http://cassandra.apache.org/) – Databases
-- [NGINX](http://nginx.org) – Web Servers
-- [Jupyter](http://jupyter.org) – Data Science Notebooks
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [DB](https://github.com/infostreams/db) – Database Tools
-- [Hugging Face](https://huggingface.co/) – Large Language Model Tools
-- [Pinecone](https://www.pinecone.io/) – Search as a Service
-- [OpenAI](https://openai.com/) – Large Language Models
+- [MongoDB](http://www.mongodb.com/) – Databases
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [NGINX](http://nginx.org) – Web Servers
 - [Claude](https://www.anthropic.com/product) – Large Language Models
 - [Cohere.com](https://cohere.com/) – Large Language Models
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
+- [Hugging Face](https://huggingface.co/) – Large Language Model Tools
+- [Jupyter](http://jupyter.org) – Data Science Notebooks
+- [OpenAI](https://openai.com/) – Large Language Models
+- [Pinecone](https://www.pinecone.io/) – Search as a Service
 - [Sentence Transformers](https://www.sbert.net/) – NLP / Sentiment Analysis
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -29,23 +29,23 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 DoctorMorDi/langchain is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1032/cassandra_small.png' alt='Cassandra'/> [Cassandra](http://cassandra.apache.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/11593/no-img.png' alt='DB'/> [DB](https://github.com/infostreams/db) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/40287/default_b4fac77fd6589c7469ccfb18a0d2df3ff2a71dbd.jpg' alt='Hugging Face'/> [Hugging Face](https://huggingface.co/) – Large Language Model Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png' alt='Pinecone'/> [Pinecone](https://www.pinecone.io/) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/101883/default_fddf1fbe1d52baf4dac573b2b7fc24b78cc729b1.jpg' alt='Claude'/> [Claude](https://www.anthropic.com/product) – Large Language Models
 - <img width='25' height='25' src='https://img.stackshare.io/service/101884/default_cf6d4a823cb5b37940800efc1e952b6a6c74e32a.png' alt='Cohere.com'/> [Cohere.com](https://cohere.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/40287/default_b4fac77fd6589c7469ccfb18a0d2df3ff2a71dbd.jpg' alt='Hugging Face'/> [Hugging Face](https://huggingface.co/) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'/> [Jupyter](http://jupyter.org) – Data Science Notebooks
+- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/48784/default_376332a8eee1cdbb0546ca1aaed0b8a7f4d673d7.png' alt='Pinecone'/> [Pinecone](https://www.pinecone.io/) – Search as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/109224/default_1167b8b1fc15f3526701cde5a789734ae865925d.png' alt='Sentence Transformers'/> [Sentence Transformers](https://www.sbert.net/) – NLP / Sentiment Analysis
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
 
@@ -56,7 +56,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DoctorMorDi/langchain](https://github.com/DoctorMorDi/langchain)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|60<br/>Tools used|02/03/24 <br/>Report generated|
+|60<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
